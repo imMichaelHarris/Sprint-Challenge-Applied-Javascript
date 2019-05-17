@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 The Document Object Model is an Object Model of the entire html page. It's not the actual HTML.
 
 2. What is an event?
-An event is everything that happens in the browser or an html element.
+An event is an interaction that happens in the browser or an html element.
 
 3. What is an event listener?
 An event listener is when we listen for a specific event on an element. It takes two arguments 
